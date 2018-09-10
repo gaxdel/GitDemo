@@ -1,0 +1,1 @@
+print("Time waits for no one >_<")
